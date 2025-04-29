@@ -1,0 +1,124 @@
+{
+    "common": {
+      "home": "Home",
+      "activities": "Activities",
+      "cafe": "Cafe",
+      "parties": "Party Hall",
+      "gallery": "Gallery",
+      "offers": "Offers",
+      "booking": "Book Now",
+      "contact": "Contact Us",
+      "reviews": "Reviews",
+      "language": "العربية",
+      "optional": "Optional",
+      "complaints": "Complaints"
+    },
+    "hero": {
+      "title": "Welcome to Kidzo",
+      "subtitle": "The perfect playground for children aged 3-12 years",
+      "cta": "Book Now"
+    },
+    "activities": {
+      "title": "Fun Activities",
+      "subtitle": "Exciting adventures for your children",
+      "trampoline": "Trampoline",
+      "trampolineDesc": "Jump and bounce on our safe trampolines",
+      "zipline": "Zipline",
+      "ziplineDesc": "Experience the thrill of flying through the air",
+      "slides": "Slides",
+      "slidesDesc": "Colorful and exciting slides for all ages",
+      "games": "Games",
+      "gamesDesc": "Various games to develop skills and have fun"
+    },
+    "cafe": {
+      "title": "Family Cafe",
+      "subtitle": "Delicious treats for the whole family",
+      "description": "Enjoy refreshing drinks and tasty snacks while your children play. Our family-friendly cafe offers a variety of options for both kids and adults."
+    },
+    "parties": {
+      "title": "Party Hall",
+      "subtitle": "Celebrate special occasions with us",
+      "description": "Make your child's birthday or graduation party unforgettable. Our party hall is perfect for hosting celebrations with friends and family.",
+      "bookCta": "Book a Party"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "See the fun in action"
+    },
+    "offers": {
+      "title": "Special Offers",
+      "subtitle": "Don't miss our latest deals",
+      "weekday": "Weekday Special",
+      "weekdayDesc": "Special discounts on weekdays",
+      "birthday": "Birthday Package",
+      "birthdayDesc": "Complete birthday celebration package",
+      "group": "Group Discount",
+      "groupDesc": "Special rates for groups of 5 or more children"
+    },
+    "booking": {
+      "title": "Book Your Visit or Party",
+      "discountInfo": "Book online and get a 15% discount!",
+      "tabVisit": "Book a Visit",
+      "tabParty": "Book Party Hall",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "dateLabel": "Visit Date",
+      "timeLabel": "Visit Time",
+      "childrenLabel": "Number of Children",
+      "childrenPlaceholder": "How many children?",
+      "submitButton": "Book Visit Now",
+      "submitSuccess": "Visit booking request received! We'll contact you shortly to confirm.",
+      "partyDateLabel": "Party Date",
+      "partyTimeLabel": "Party Time",
+      "guestsLabel": "Number of Guests",
+      "guestsPlaceholder": "Minimum 10 guests",
+      "occasionLabel": "Occasion",
+      "occasionPlaceholder": "e.g., Birthday, Graduation",
+      "partySubmitButton": "Book Party Hall",
+      "partySubmitSuccess": "Party hall booking request received! We'll contact you shortly to confirm."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "infoTitle": "Our Information",
+      "addressLabel": "Address",
+      "addressLine1": "Kidzo Play Center",
+      "addressLine2": "Eastern Beach Neighborhood, Dammam",
+      "phoneLabel": "Phone",
+      "phoneNumber": "+966 13 XXX XXXX",
+      "emailLabel": "Email",
+      "emailAddress": "info@kidzo.example.com",
+      "formTitle": "Send Us a Message",
+      "formNameLabel": "Your Name",
+      "formNamePlaceholder": "Enter your name",
+      "formEmailLabel": "Your Email",
+      "formEmailPlaceholder": "Enter your email",
+      "formMessageLabel": "Message",
+      "formMessagePlaceholder": "How can we help you?",
+      "formSubmitButton": "Send Message",
+      "formSubmitSuccess": "Message sent! We'll get back to you soon."
+    },
+    "reviews": {
+      "title": "Customer Reviews",
+      "subtitle": "Share your experience with us!",
+      "formTitle": "Leave a Review",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your name",
+      "ratingLabel": "Rating",
+      "reviewLabel": "Your Review",
+      "reviewPlaceholder": "Tell us about your visit...",
+      "submitButton": "Submit Review",
+      "submitSuccess": "Thank you for your review!",
+      "displayTitle": "What Our Visitors Say",
+      "noReviews": "Be the first to leave a review!"
+    },
+    "footer": {
+      "rights": "All Rights Reserved",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use"
+    }
+}
+

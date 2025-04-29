@@ -1,0 +1,123 @@
+{
+    "common": {
+      "home": "الرئيسية",
+      "activities": "الأنشطة",
+      "cafe": "الكافيه",
+      "parties": "قاعة الحفلات",
+      "gallery": "معرض الصور",
+      "offers": "العروض",
+      "booking": "احجز الآن",
+      "contact": "اتصل بنا",
+      "reviews": "التقييمات",
+      "language": "English",
+      "optional": "اختياري"
+    },
+    "hero": {
+      "title": "أهلاً بكم في كيدزو",
+      "subtitle": "المكان المثالي للعب الأطفال من سن 3 إلى 12 سنة",
+      "cta": "احجز الآن"
+    },
+    "activities": {
+      "title": "أنشطة ممتعة",
+      "subtitle": "مغامرات شيقة لأطفالكم",
+      "trampoline": "ترامبولين",
+      "trampolineDesc": "اقفز واستمتع على الترامبولين الآمن لدينا",
+      "zipline": "زيبلاين",
+      "ziplineDesc": "جرب إثارة التحليق في الهواء",
+      "slides": "زحاليق",
+      "slidesDesc": "زحاليق ملونة ومثيرة لجميع الأعمار",
+      "games": "ألعاب",
+      "gamesDesc": "ألعاب متنوعة لتنمية المهارات والمرح"
+    },
+    "cafe": {
+      "title": "كافيه العائلة",
+      "subtitle": "أشهى المأكولات والمشروبات لجميع أفراد الأسرة",
+      "description": "استمتع بالمشروبات المنعشة والوجبات الخفيفة اللذيذة بينما يلعب أطفالك. يقدم الكافيه العائلي لدينا مجموعة متنوعة من الخيارات للأطفال والكبار."
+    },
+    "parties": {
+      "title": "قاعة الحفلات",
+      "subtitle": "احتفل بالمناسبات الخاصة معنا",
+      "description": "اجعل عيد ميلاد طفلك أو حفل تخرجه لا يُنسى. قاعة الحفلات لدينا مثالية لاستضافة الاحتفالات مع الأصدقاء والعائلة.",
+      "bookCta": "احجز حفلة"
+    },
+    "gallery": {
+      "title": "معرض الصور",
+      "subtitle": "شاهد المرح بنفسك"
+    },
+    "offers": {
+      "title": "عروض خاصة",
+      "subtitle": "لا تفوت أحدث عروضنا",
+      "weekday": "عرض أيام الأسبوع",
+      "weekdayDesc": "خصومات خاصة خلال أيام الأسبوع",
+      "birthday": "باقة عيد الميلاد",
+      "birthdayDesc": "باقة احتفال عيد ميلاد متكاملة",
+      "group": "خصم المجموعات",
+      "groupDesc": "أسعار خاصة للمجموعات المكونة من 5 أطفال أو أكثر"
+    },
+    "booking": {
+      "title": "احجز زيارتك أو حفلتك",
+      "discountInfo": "احجز عبر الموقع واحصل على خصم 15%!",
+      "tabVisit": "حجز زيارة",
+      "tabParty": "حجز قاعة الحفلات",
+      "nameLabel": "الاسم الكامل",
+      "namePlaceholder": "أدخل اسمك الكامل",
+      "emailLabel": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "phoneLabel": "رقم الهاتف",
+      "phonePlaceholder": "أدخل رقم هاتفك",
+      "dateLabel": "تاريخ الزيارة",
+      "timeLabel": "وقت الزيارة",
+      "childrenLabel": "عدد الأطفال",
+      "childrenPlaceholder": "كم عدد الأطفال؟",
+      "submitButton": "احجز الزيارة الآن",
+      "submitSuccess": "تم استلام طلب حجز الزيارة! سنتصل بك قريباً للتأكيد.",
+      "partyDateLabel": "تاريخ الحفلة",
+      "partyTimeLabel": "وقت الحفلة",
+      "guestsLabel": "عدد الضيوف",
+      "guestsPlaceholder": "الحد الأدنى 10 ضيوف",
+      "occasionLabel": "المناسبة",
+      "occasionPlaceholder": "مثال: عيد ميلاد، تخرج",
+      "partySubmitButton": "احجز قاعة الحفلات",
+      "partySubmitSuccess": "تم استلام طلب حجز قاعة الحفلات! سنتصل بك قريباً للتأكيد."
+    },
+    "contact": {
+      "title": "اتصل بنا",
+      "infoTitle": "معلوماتنا",
+      "addressLabel": "العنوان",
+      "addressLine1": "مركز كيدزو للعب",
+      "addressLine2": "حي الشاطئ الشرقي، الدمام",
+      "phoneLabel": "الهاتف",
+      "phoneNumber": "+966 13 XXX XXXX",
+      "emailLabel": "البريد الإلكتروني",
+      "emailAddress": "info@kidzo.example.com",
+      "formTitle": "أرسل لنا رسالة",
+      "formNameLabel": "اسمك",
+      "formNamePlaceholder": "أدخل اسمك",
+      "formEmailLabel": "بريدك الإلكتروني",
+      "formEmailPlaceholder": "أدخل بريدك الإلكتروني",
+      "formMessageLabel": "رسالتك",
+      "formMessagePlaceholder": "كيف يمكننا مساعدتك؟",
+      "formSubmitButton": "إرسال الرسالة",
+      "formSubmitSuccess": "تم إرسال الرسالة! سنرد عليك قريباً."
+    },
+    "reviews": {
+      "title": "تقييمات العملاء",
+      "subtitle": "شاركنا تجربتك!",
+      "formTitle": "أضف تقييمك",
+      "nameLabel": "اسمك",
+      "namePlaceholder": "أدخل اسمك",
+      "ratingLabel": "التقييم",
+      "reviewLabel": "تقييمك",
+      "reviewPlaceholder": "أخبرنا عن زيارتك...",
+      "submitButton": "إرسال التقييم",
+      "submitSuccess": "شكراً لتقييمك!",
+      "displayTitle": "ماذا قال زوارنا",
+      "noReviews": "كن أول من يترك تقييماً!"
+    },
+    "footer": {
+      "rights": "جميع الحقوق محفوظة",
+      "privacy": "سياسة الخصوصية",
+      "terms": "شروط الاستخدام"
+    }
+}
+
